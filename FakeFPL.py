@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 import numpy as np
+pd.options.mode.chained_assignment = None  # default='warn'
 
 url = 'https://fantasy.premierleague.com/api/bootstrap-static/'
 r = requests.get(url)
