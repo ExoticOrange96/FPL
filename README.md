@@ -1,3 +1,3 @@
 # FPL 
  
- This is a project amde for a task for ACM
+ This is a project made for a task for ACM
